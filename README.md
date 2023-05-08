@@ -1,6 +1,6 @@
 Hi Salah Eddine Jouhaini!
 
-Nice to meet you! I'm Salah Eddine Jouhaini, currently a first-year student at Mohammadia School of Engineers. I take pride in being a member of the charity club EMI Khayr and the public speaking club EMI Rhetorica.
+Nice to meet you! I'm Salah Eddine Jouhaini, currently a first-year student at Mohammadia School of Engineers. I take pride in being a member of it club "it-academie" .
 
 Currently, I'm immersing myself in various CS basics, such as full-stack development, DevOps, data science, and networking. My goal for this year is to establish a strong foundation of general knowledge and satisfy my thirst for learning new things. I have a deep interest in technology, coding, and mathematics.
 
